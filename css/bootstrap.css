@@ -489,6 +489,7 @@ pre {
 .row {
   display: flex;
   flex-wrap: wrap;
+  margin-top: inherit;
   margin-right: -15px;
   margin-left: -15px; }
 
@@ -2994,7 +2995,7 @@ button.bg-dark:hover {
   max-height: 100% !important; }
 
 .m-0 {
-  margin: 0 !important; }
+  margin: 5% !important; }
 
 .mt-0,
 .my-0 {
