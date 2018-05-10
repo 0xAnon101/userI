@@ -954,7 +954,7 @@ div[data-overlay] ul {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #817bdb;
+  background: #584eef;
   border-color: #4a90e2;
 }
 .btn--primary .btn__text,
@@ -5979,7 +5979,7 @@ p .material-icons:first-child {
   border: none;
 }
 .imagebg:not(.image--light) .boxed:not(.bg--white):not(.bg--none) {
-  background: rgba(225, 252, 254, 0.9);
+  background: rgba(255, 255, 255, 1.0);
 }
 .imagebg:not(.image--light) .boxed:not(.bg--white):not(.bg--none).boxed--border {
   border: none;
