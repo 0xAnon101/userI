@@ -3177,7 +3177,7 @@ form[action*='list-manage.com'] .small-meta {
 /**! 33. Gradient BG **/
 [data-gradient-bg] {
   position: relative;
-  background: #252525;
+  /**background: #252525;**/
 }
 [data-gradient-bg] > canvas {
   position: absolute;
